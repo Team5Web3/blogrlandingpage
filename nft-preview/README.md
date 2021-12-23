@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/meauma13
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://web3-0-murex.vercel.app
 
 ## My process
 
@@ -35,4 +35,4 @@ Users should be able to:
 
 ### Continued development
 
-1. Images Overlay
+1. Still trying to perfect the hover image overlay
