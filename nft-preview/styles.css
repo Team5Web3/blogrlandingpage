@@ -46,7 +46,13 @@ p{
 .container{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: between;
+	/*flex-wrap: inherit;
+	justify-content: space-between;*/
+}
+
+.image-left{
+    margin-left: 30px;
 }
 
 .image-right{
@@ -102,7 +108,7 @@ span:hover, .white:hover{
     height: 40px;
     border-radius: 50%;
     border: 0.1rem solid white;
-    margin-right: -10px;
+    margin-left: 30px;
 }
 
 .attribution { 
