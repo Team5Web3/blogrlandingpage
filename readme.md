@@ -20,10 +20,10 @@ Participants in this work according to their Github Links are as follows;
 
 Some challenges encountered and learning insihgts gained during the course of this project include;
 
-a. Figuring out how to optimally scale, resize and position the SVG files.
-b. Using the "order" CSS feature of flex display to position elements.
-c. Proper use of the Bootstrap Grid column "col" feature to achieve responsive display on mobile and larger screen sizes.
-d. Realizing that there was need for potential landscape responsiveness, which led to reading up on @meadia screen and (min-height: ..px) or (max-height: ..px).
+1. Figuring out how to optimally scale, resize and position the SVG files.
+2. Using the "order" CSS feature of flex display to position elements.
+3. Proper use of the Bootstrap Grid column "col" feature to achieve responsive display on mobile and larger screen sizes.
+4. Realizing that there was need for potential landscape responsiveness, which led to reading up on @meadia screen and (min-height: ..px) or (max-height: ..px).
 
 
 
