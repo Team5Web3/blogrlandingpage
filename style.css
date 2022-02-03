@@ -282,7 +282,7 @@ li {
 
 
 
-/* media queries */
+/* media queries  for device width */
 
 @media screen and (max-width: 992px) {
     .header-section {
@@ -450,9 +450,9 @@ li {
         order: -1;
         background-image: url('images/illustration-editor-mobile.svg');
         background-repeat: no-repeat;
-        background-size: 500px;
+        background-size: 380px;
         background-position: center;
-        margin: -200px 0px -200px 0px;
+        margin: -230px 0px -230px 0px;
     }
 
 
@@ -500,12 +500,12 @@ li {
     }
 
     .img-laptop {
-        height: 80vh;
+        height: 85vh;
         background-image: url('images/illustration-laptop-mobile.svg');
-        background-size: 500px;
+        background-size: 380px;
         background-repeat: no-repeat;
         background-position: center;
-        margin: -100px 0px -250px 0px;
+        margin: -5px 0px -170px 0px;
     }
 
     .features-section-definition {
@@ -519,7 +519,6 @@ li {
         font-size: 1.1rem;
     }
 }
-
 
 
 
@@ -549,7 +548,6 @@ li {
 
 
 
-
 @media screen and (min-width:993px) and (max-width:1250px) {
     .img-phone {
         margin-top: -120px;
@@ -574,3 +572,17 @@ li {
         padding: 50px;
     }
 }
+
+
+
+
+/* media queries for device height */
+
+@media screen and (max-height: 350px) {
+    html {
+        font-size: small;
+    }
+}
+
+/* .margin-bottom: calc(10px + 5vh); */
+/* margin-bottom: clamp(10px, 5vh, 40px) */
